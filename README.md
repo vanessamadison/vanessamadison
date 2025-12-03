@@ -12,15 +12,20 @@
 
 ### ***Veridex***  
 Automated phishing triage using metadata driven analysis and transparent reasoning for regulated environments.  
-[GitHub](https:/github.com/vanessamadison/veridex.git) 
+
+[![Veridex Repo](https://img.shields.io/badge/GitHub-Veridex-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanessamadison/veridex)
+
 
 ### ***Cryptiq***  
 Post quantum secure messaging with Kyber 768 and Dilithium 3 for forward safe communication.  
-[GitHub](https:/github.com/vanessamadison/cryptiq.git) 
+
+[![CryptiQ Repo](https://img.shields.io/badge/GitHub-CryptiQ-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanessamadison/cryptiq)
+
 
 ### ***CareSense***  
 Encrypted clinical intelligence and privacy centered AI triage, recognized for ethical and compliant design.  
-[GitHub](https:/github.com/vanessamadison/caresense.git) 
+
+[![CareSense Repo](https://img.shields.io/badge/GitHub-CareSense-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanessamadison/caresense)
 
 ---
 
