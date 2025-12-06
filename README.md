@@ -1,6 +1,6 @@
 # 𝘏𝘪, 𝘐’𝘮 𝘝𝘢𝘯𝘦𝘴𝘴𝘢 𝘔𝘢𝘥𝘪𝘴𝘰𝘯  
 
-### 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 • 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 • 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩𝘦𝘳  
+### 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 • 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 • 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩𝘦𝘳
 
 𝘐 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘵𝘩𝘢𝘵 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦 𝘥𝘦𝘧𝘦𝘯𝘴𝘦, 𝘦𝘯𝘩𝘢𝘯𝘤𝘦 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘶𝘱𝘩𝘰𝘭𝘥 𝘱𝘳𝘪𝘷𝘢𝘤𝘺.  
 
@@ -23,7 +23,7 @@ Post quantum secure messaging with Kyber 768 and Dilithium 3 for forward safe co
 
 
 ### ***CareSense***  
-Encrypted clinical intelligence and privacy centered AI triage, recognized for ethical and compliant design.  
+Encrypted clinical intelligence and privacy centered AI triage, 3rd place AurariaHack winner recognized for ethical and compliant design. 
 
 [![CareSense Repo](https://img.shields.io/badge/GitHub-CareSense-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanessamadison/caresense)
 
