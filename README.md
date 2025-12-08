@@ -98,7 +98,8 @@ Encrypted clinical intelligence and privacy centered AI triage, 3rd place Aurari
 ## 𝘊𝘰𝘯𝘯𝘦𝘤𝘵  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamadison/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vanessamadison.com)
+[![Developer Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vanessamadison.com)
+[![Business Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://illapex.com)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessamadison@proton.me)  
 
 ---
